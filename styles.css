@@ -28,6 +28,7 @@ a:hover {
   margin: 0;
   height: 20vh;
   padding-top: 6vh;
+  padding-left: 5px;
   background-color: black;
   color: white;
   font-family: sans-serif;
@@ -54,6 +55,7 @@ a:hover {
   margin: 0;
   height: 5vh;
   padding-top: 5vh;
+  padding-left: 5px;
   background-color: black;
   color: white;
   font-family: sans-serif;
